@@ -219,7 +219,7 @@ body {
     font-size: 32px;
   }
 
-  .news__item, .app__main-search-field, .btn__sources, .btn__filter {
+  .news__item, .app__main-search-field, .btn__filter {
     font-size: 26px;
   }
 }
